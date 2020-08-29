@@ -6,7 +6,7 @@ Built with SQLite, Django, React, and Node.js.
 The website is live and can be found here: https://app-book-keeper.herokuapp.com/
 
 # Demo Video
-[![BookKeeper Demo](https://i.imgur.com/oDZ2fmD.png)](https://youtu.be/-t93WfwfCIM)
+[![BookKeeper Demo](https://i.imgur.com/oDZ2fmD.png)](https://youtu.be/AcF7VZfpZuw)
 
 # Screenshots
 ![Browse Page](https://i.imgur.com/xVUJadu.png)
